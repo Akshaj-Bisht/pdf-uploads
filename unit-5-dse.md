@@ -25,3 +25,32 @@ Software reliability measurement helps in assessing the stability and correctnes
 A **software failure** occurs when the system does not perform as expected. **Faults** (or defects) are the underlying reasons for failures.
 
 ### Key Points:
+- Failures can be due to coding errors, incorrect logic, or unexpected user inputs.
+- Software defects are categorized as syntax errors, logical errors, and runtime errors.
+- Debugging and rigorous testing help in identifying and fixing faults before deployment.
+
+## Reliability Models
+
+### Definition:
+Reliability models help predict software failures based on observed data.
+
+### Types of Models:
+1. **Jelinski-Moranda Model** – Assumes a constant failure rate that decreases as bugs are fixed.
+2. **Goel-Okumoto Model** – Uses a Poisson process to predict failure rates.
+3. **Musa Execution Time Model** – Relates failures to the execution time of the software.
+
+### Importance:
+- Helps estimate the reliability of a software system before release.
+- Guides improvements in software quality assurance.
+
+## Techniques to Improve Software Reliability
+
+### Key Points:
+- **Testing & Debugging:** Identify and fix software bugs early.
+- **Fault Tolerance:** Implement redundancy and error-handling mechanisms.
+- **Software Engineering Best Practices:** Use structured design, code reviews, and proper documentation.
+- **Formal Methods:** Mathematical techniques to verify software correctness.
+- **Software Maintenance:** Regular updates to adapt to changing environments and user needs.
+
+---
+
