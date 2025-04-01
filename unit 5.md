@@ -89,8 +89,9 @@ The chapter presents 20 quality attributes:
 ### McCall's Quality Model
 
 The chapter explains McCall's quality model which organizes quality factors into three categories:
+![[Drawing 2025-04-01 19.42.57.excalidraw.svg]]
 
-![[Pasted image 20250401200126.png]]
+
 1. Product Operation (factors related to operational performance)
     
     - Correctness
