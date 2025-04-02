@@ -111,33 +111,7 @@ The chapter explains McCall's quality model which organizes quality factors into
     - Interoperability
 
 The model also includes 25 quality criteria (second-level attributes) that support the quality factors.
-
-```mermaid
-flowchart TD
-    A[Software Quality] --> B[Product Operation]
-    A --> C[Product Revision]
-    A --> D[Product Transition]
-    
-    B --> B1[Correctness]
-    B --> B2[Efficiency]
-    B --> B3[Integrity]
-    B --> B4[Reliability]
-    B --> B5[Usability]
-    
-    C --> C1[Maintainability]
-    C --> C2[Flexibility]
-    C --> C3[Testability]
-    
-    D --> D1[Portability]
-    D --> D2[Reusability]
-    D --> D3[Interoperability]
-    
-    style A fill:#f9f,stroke:#333
-    style B fill:#bbf,stroke:#333
-    style C fill:#bbf,stroke:#333
-    style D fill:#bbf,stroke:#333
-
-```
+
 
 ## 3. Capability Maturity Model (CMM)
 
