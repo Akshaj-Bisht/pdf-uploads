@@ -645,3 +645,34 @@ Key success factors for this platform include:
 4. **Personalization**: Academic stream-based recommendations enhance relevance.
 
 As the platform grows, it has the potential to expand beyond college students to serve other educational segments, including competitive exam aspirants and school students. With careful attention to security, performance, and user feedback, the E-Learning Platform will become an essential tool in the Indian educational landscape, helping students access quality resources and succeed in their academic pursuits.
+
+
+# Figure List
+
+| **Figure No.** | **Name**                                 |
+|----------------|-------------------------------------------|
+| 1.             | Context Level DFD                         |
+| 2.             | Level-1 DFD                               |
+| 3.             | Level-2: User Registration                |
+| 4.             | Level-2: User Login                       |
+| 5.             | Level-2: View Study Materials             |
+| 6.             | Level-2: Upload Study Materials           |
+| 7.             | Level-2: Join/Create Study Group          |
+| 8.             | Entity-Relationship (ER) Diagram          |
+| 9.             | Data Flow of Study Material Management    |
+| 10.            | System Use Case Diagram (Student)         |
+| 11.            | System Use Case Diagram (Admin)           |
+| 12.            | Home Page                                 |
+| 13.            | Login and Registration Page               |
+| 14.            | Student Dashboard                         |
+| 15.            | View Previous Year Papers Page            |
+| 16.            | View Notes and Playlists Page             |
+| 17.            | Create or Join Study Group Page           |
+| 18.            | Group Chat and Resource Sharing Page      |
+| 19.            | Upload Study Material Page                |
+| 20.            | Search and Filter Page                    |
+| 21.            | Admin Login Page                          |
+| 22.            | Admin Dashboard                           |
+| 23.            | Admin View Reports and Flags              |
+| 24.            | Admin Manage Users and Materials          |
+
